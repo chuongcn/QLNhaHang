@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cQHMqmq/hCwiM3Gb1Ef33ykSWKQH5KHerGHcvJMCHB7kEkh/5Z6ul6TXEVl7S6GEd5wgVP3ano+N+jfK/kLjpQ==",
+  "success": true,
+  "projectFilePath": "E:\\repos\\QLNhaHang\\WebAPIs\\QLNhaHang_APIs\\QLNhaHang_APIs\\QLNhaHang_APIs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mr Karmar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
